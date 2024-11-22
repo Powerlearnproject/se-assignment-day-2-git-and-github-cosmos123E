@@ -62,6 +62,9 @@ Forking is helpful when contributing to open-source project
 
 Issues track bugs, tasks, or enhancements in a project. Project boards organize issues into categories (like "To Do," "In Progress," and "Done"). They help manage tasks and improve communication, ensuring everyone knows what needs attention.
 
+
+## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+
 Challenges and Best Practices on GitHub
 Common issues include:
 
@@ -74,5 +77,3 @@ Commit frequently with clear messages.
 Communicate changes and discuss issues.
 Use branches for features and bug fixes.
 These strategies help avoid confusion and keep collaboration smooth.
-
-## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
